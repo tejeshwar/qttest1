@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is most definitely a very branch 1 specific document
+=======
+The quick brown fox jumped over the original branch and broke it.
+>>>>>>> origin/testbranch1

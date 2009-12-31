@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'tejeshwar.ui'
 **
-** Created: Sat Dec 26 22:24:19 2009
+** Created: Sun Dec 27 16:01:22 2009
 **      by: Qt User Interface Compiler version 4.6.0
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
@@ -42,11 +42,11 @@ public:
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));
         pushButton = new QPushButton(centralWidget);
         pushButton->setObjectName(QString::fromUtf8("pushButton"));
-        pushButton->setGeometry(QRect(110, 90, 75, 23));
+        pushButton->setGeometry(QRect(110, 90, 121, 51));
         tejeshwar->setCentralWidget(centralWidget);
         menuBar = new QMenuBar(tejeshwar);
         menuBar->setObjectName(QString::fromUtf8("menuBar"));
-        menuBar->setGeometry(QRect(0, 0, 600, 21));
+        menuBar->setGeometry(QRect(0, 0, 600, 22));
         tejeshwar->setMenuBar(menuBar);
         mainToolBar = new QToolBar(tejeshwar);
         mainToolBar->setObjectName(QString::fromUtf8("mainToolBar"));
